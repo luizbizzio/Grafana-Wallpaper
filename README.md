@@ -1,4 +1,4 @@
-# Grafana Wallpaper 🖥️
+<h1 align="center">Grafana Wallpaper 🖥️</h1>
 
 This repository provides a step-by-step guide for setting up Grafana and displaying dashboards as your desktop wallpaper using Lively Wallpaper.
 
